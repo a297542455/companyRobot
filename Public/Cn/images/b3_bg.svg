@@ -1,0 +1,17 @@
+<svg width="1340" height="1019" viewBox="0 0 1340 1019" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_2959_14002)">
+<g opacity="0.4" filter="url(#filter0_f_2959_14002)">
+<g clip-path="url(#paint0_angular_2959_14002_clip_path)" data-figma-skip-parse="true"><g transform="matrix(0.456781 0.173329 -0.173329 0.456781 750.109 271.108)"><foreignObject x="-1002.05" y="-1002.05" width="2004.09" height="2004.09"><div xmlns="http://www.w3.org/1999/xhtml" style="background:conic-gradient(from 90deg,rgba(235, 237, 255, 1) 0deg,rgba(230, 245, 254, 1) 191.25deg,rgba(235, 237, 255, 1) 360deg);height:100%;width:100%;opacity:1"></div></foreignObject></g></g><ellipse cx="750.109" cy="271.108" rx="488.56" ry="488.56" transform="rotate(-69.2204 750.109 271.108)" data-figma-gradient-fill="{&#34;type&#34;:&#34;GRADIENT_ANGULAR&#34;,&#34;stops&#34;:[{&#34;color&#34;:{&#34;r&#34;:0.92156863212585449,&#34;g&#34;:0.92941176891326904,&#34;b&#34;:1.0,&#34;a&#34;:1.0},&#34;position&#34;:0.0},{&#34;color&#34;:{&#34;r&#34;:0.90196079015731812,&#34;g&#34;:0.96078431606292725,&#34;b&#34;:0.99607843160629272,&#34;a&#34;:1.0},&#34;position&#34;:0.531250},{&#34;color&#34;:{&#34;r&#34;:0.92156863212585449,&#34;g&#34;:0.92941176891326904,&#34;b&#34;:1.0,&#34;a&#34;:1.0},&#34;position&#34;:1.0}],&#34;stopsVar&#34;:[],&#34;transform&#34;:{&#34;m00&#34;:913.56109619140625,&#34;m01&#34;:-346.65716552734375,&#34;m02&#34;:466.65716552734375,&#34;m10&#34;:346.65710449218750,&#34;m11&#34;:913.56121826171875,&#34;m12&#34;:-359.00067138671875},&#34;opacity&#34;:1.0,&#34;blendMode&#34;:&#34;NORMAL&#34;,&#34;visible&#34;:true}"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_f_2959_14002" x="-38.5835" y="-517.584" width="1577.39" height="1577.38" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="150" result="effect1_foregroundBlur_2959_14002"/>
+</filter>
+<clipPath id="paint0_angular_2959_14002_clip_path"><ellipse cx="750.109" cy="271.108" rx="488.56" ry="488.56" transform="rotate(-69.2204 750.109 271.108)"/></clipPath><clipPath id="clip0_2959_14002">
+<rect width="1340" height="1019" fill="white"/>
+</clipPath>
+</defs>
+</svg>
