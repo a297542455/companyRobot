@@ -11375,6 +11375,6 @@ body {
   display: none;
 }
 .head_other,
-.embed-toolbar {
-  display: none;
+.head_lang .embed-toolbar {
+  display: none !important;
 }
