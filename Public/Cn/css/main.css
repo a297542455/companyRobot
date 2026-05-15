@@ -11374,6 +11374,7 @@ body {
 .mod_side_top_item:nth-child(3) {
   display: none;
 }
-.head_other {
+.head_other,
+.embed-toolbar {
   display: none;
 }
